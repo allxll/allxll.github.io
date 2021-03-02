@@ -5,4 +5,4 @@ layout: "post"
 
 测试一下
 
-![nothan](/images/test.jpg)
+![nothan](/assets/images/test.jpg)
