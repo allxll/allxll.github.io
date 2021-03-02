@@ -5,4 +5,4 @@ layout: "post"
 
 测试一下
 
-![一个图片](/images/test.jpg)
+![汉字](/images/test.jpg)
